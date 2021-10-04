@@ -92,6 +92,7 @@ function BottomTabNavigator() {
           tabBarIcon: ({ color }) => <TabBarIcon name="code" color={color} />,
         }}
       />
+    
     </BottomTab.Navigator>
   );
 }
